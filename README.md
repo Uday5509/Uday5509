@@ -1,155 +1,162 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Soham%20Kharge%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20•%20Spring%20Boot%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20There,%20I'm%20Uday%20Ahire%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Python%20Developer%20%7C%20LLM%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Spring+Boot+Developer;Full+Stack+Developer;DSA+Learner;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer;Machine+Learning+Developer;Exploring+Large+Language+Models;Generative+AI+%26+RAG+Enthusiast;Python+Developer;Building+Intelligent+AI+Solutions" />
 
-<br>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham0kharge05)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sohamkharge2005)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamkharge@gmail.com)
+<a href="https://github.com/Uday5509">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/uday-ahire-a22466244/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ahireuday80@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KhargeSoham&label=Profile%20Views&color=2E9EF7&style=for-the-badge)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Uday5509&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
 </div>
 
-<br>
+---
 
 ## 🚀 About Me
 
-- 🎓 Final-year **B.E. Computer Engineering** student, based in Pune, India
-- ☕ Focused on becoming a **Java Developer**, with a full-stack Spring Boot foundation
-- 🧠 Sharpening **Data Structures & Algorithms** daily as part of interview prep
-- 🌱 Currently building **Pathfinder** — a Java-powered pathfinding algorithm visualizer (BFS, DFS, Dijkstra's & A*)
-- 🛠️ Rebuilding my **developer portfolio** into a fully animated, interactive experience
-- 👯 Open to collaborating on **Java / Spring Boot** open-source projects
-- 📫 Reach me at **sohamkharge@gmail.com**
+* 🎓 Computer Engineering student passionate about Artificial Intelligence and Machine Learning.
+* 🤖 Focused on becoming an **AI/ML Engineer**.
+* 🧠 Exploring **Machine Learning, Deep Learning, NLP, LLMs and Generative AI**.
+* 🐍 Building intelligent applications using **Python, Flask and AI/ML frameworks**.
+* 📚 Currently learning **LLMs, RAG, LangChain and AI agent development**.
+* 🚀 Developing real-world projects that combine AI, automation and intelligent systems.
+* ☁️ Exploring **AWS, Cloud Computing and DevOps**.
+* 🤝 Interested in collaborating on AI/ML and open-source projects.
+* 📫 Reach me at **[ahireuday80@gmail.com](mailto:ahireuday80@gmail.com)**.
 
-<br>
+---
 
-## 💼 Experience
-
-<div align="center">
-
-| Role | Organization | Duration |
-|:--|:--|:--|
-| ☕ Java Development Intern | Anudip Foundation | Dec 2025 – Jan 2026 |
-| 🐍 Python Development Intern | L&D Infotech | — |
-
-</div>
-
-<br>
-
-## 🧩 Featured Projects
+## 💻 My AI/ML Projects
 
 <div align="center">
 
-| Project | Tech Stack | Highlights |
-|:--|:--|:--|
-| 🧭 **Pathfinder** — Algorithm Visualizer | `Java` `DSA` `Graph Theory` | Grid-based visualizer for BFS, DFS, Dijkstra's & A* with step-by-step playback and live performance metrics |
-| 🌐 **Interactive Developer Portfolio** | `JavaScript` `HTML5` `CSS3` | Particle canvas background, 3D scroll animations & a Java-themed typing widget, hosted on GitHub Pages |
-| 🏆 **Sports Team Management System** | `Java Swing` `SQL` | Desktop application for managing rosters, schedules & team stats |
-| 🎬 **Movie Ticket Booking System** | `React` `Node.js` `MongoDB` | Full-stack booking flow with seat selection and persistent booking history |
+| Project                      | Tech Stack                  | Description                                                                      |
+| :--------------------------- | :-------------------------- | :------------------------------------------------------------------------------- |
+| 📄 **DocuMind-AI**           | Python, LLM, RAG            | AI-powered PDF assistant for document understanding and question answering.      |
+| 💳 **OfflinePay-AI**         | Python, Flask, Scikit-learn | Offline payment system concept with AI-powered financial fraud detection.        |
+| 📊 **Smart Queue Predictor** | Python, Flask, ML, MySQL    | Predicts waiting times for hospitals, banks and canteens using machine learning. |
+| 📄 **AI Resume Analyzer**    | Python, NLP, Flask          | AI-based resume analysis concept for extracting skills and evaluating resumes.   |
 
 </div>
 
-> Replace the `#` links above with your live demo / repo URLs once each project is deployed.
+---
 
-<br>
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
-<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🐍 Programming Languages
 
-**Frameworks & Libraries**
-<br>
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
 
-**Databases & Servers**
-<br>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+### 🤖 AI / Machine Learning
 
-**Design & Deployment**
-<br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/NLP-102230?style=for-the-badge&logo=spacy&logoColor=09A3D5"/>
+<img src="https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-102230?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
 
-**Version Control**
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 📚 Libraries & Frameworks
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow,pytorch" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+
+### 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman" />
 
 </div>
 
-<br>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=KhargeSoham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" width="49%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhargeSoham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Uday5509&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday5509&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
 
-<img src="https://streak-stats.demolab.com/?user=KhargeSoham&theme=dark&hide_border=false" width="70%"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhargeSoham&theme=react-dark&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=Uday5509&theme=tokyonight&hide_border=true" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday5509&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhargeSoham/KhargeSoham/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhargeSoham/KhargeSoham/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KhargeSoham/KhargeSoham/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
+<img src="https://raw.githubusercontent.com/Uday5509/Uday5509/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
-<br>
+---
 
-## ✍️ Random Dev Quote
+## 🎯 Current Learning Goals
+
+* 🧠 Strengthening Machine Learning and Deep Learning fundamentals.
+* 🤖 Building LLM-powered applications.
+* 🔍 Learning Retrieval-Augmented Generation (RAG).
+* 🦜 Exploring LangChain and LangGraph.
+* 📊 Practicing Python and Data Structures & Algorithms.
+* ☁️ Learning AWS and deploying AI applications.
+* 🚀 Building production-ready AI/ML projects.
+
+---
+
+## ✍️ Developer Quote
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham0kharge05)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sohamkharge2005)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohamkharge@gmail.com)
+<a href="https://github.com/Uday5509">GitHub</a> • <a href="https://www.linkedin.com/in/uday-ahire-a22466244/">LinkedIn</a> • <a href="mailto:ahireuday80@gmail.com">Email</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+**"Turning data into intelligence and ideas into AI solutions."** 🤖
 
 </div>
-
-<!-- Proudly enhanced with help from Claude -->
