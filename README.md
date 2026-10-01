@@ -3,8 +3,6 @@
 
 ### 💻 Computer Engineering Student | 🤖 AI/ML Enthusiast | 🚀 Software Developer
 
-> 🌱 **Learning • Building • Innovating**
-
 ## 👨‍💻 About Me
 
 🎓 Computer Engineering student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
