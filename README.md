@@ -117,8 +117,6 @@
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source
