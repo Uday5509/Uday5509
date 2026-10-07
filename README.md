@@ -161,3 +161,6 @@
 **"Turning data into intelligence and ideas into AI solutions."** 🤖
 
 </div>
+
+
+uday-portfolio-tau.vercel.app
